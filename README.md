@@ -112,7 +112,7 @@ To add new data sources, create a new Python module in the `scripts` directory a
 
 ### 🎨 Creating Custom Visualizations
 
-You can create custom Grafana dashboards by importing JSON definitions or using the Grafana UI to build new visualizations.
+You can create Grafana dashboards by importing JSON definitions or using the Grafana UI to build new visualizations.
 
 ### 📈 Scaling the System
 
@@ -124,3 +124,5 @@ The system can be scaled horizontally by:
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Happy Coding🚀🚀
